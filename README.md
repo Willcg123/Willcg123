@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Willcg123
-- 👀 I’m interested in Data Science and Data Analytics
+- 👋 Hi, I’m Will 
+- 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning SQL, Python, R
 - 📫 How to reach me Email: Willgao123@gmail.com
 
