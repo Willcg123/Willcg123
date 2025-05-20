@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Will 
 - 👀 I’m interested in Financial Analytics, Business Analytics, Data Analytics and Data Science
-- 🌱 I’m currently learning SQL, Python, R
 - 📫 How to reach me Email: Willgao123@gmail.com
 
 <!---
