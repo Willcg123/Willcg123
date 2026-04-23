@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Will 
-- 👀 I’m interested in Financial Analytics, Business Analytics, Data Analytics and Data Science
+- 👀 I’m interested in Prroduct Analytics, Business Analytics, Data Analytics and Data Science
 - 📫 How to reach me Email: Willgao123@gmail.com
 
 <!---
